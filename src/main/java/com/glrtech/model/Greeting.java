@@ -1,4 +1,4 @@
-package com.glrtech;
+package com.glrtech.model;
 
 public class Greeting {
 	
